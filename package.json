@@ -1,0 +1,24 @@
+{
+  "name": "auto-checks-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barisohussein/auto-checks-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barisohussein/auto-checks-site/issues"
+  },
+  "homepage": "https://github.com/barisohussein/auto-checks-site#readme",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.55.0",
+    "puppeteer": "^24.19.0"
+  }
+}

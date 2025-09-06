@@ -1,0 +1,8 @@
+{
+  "ttfb": 500,
+  "loadTime": 1200,
+  "domInteractive": 1000,
+  "inp": 50,
+  "lcp": 800,
+  "cls": 0.01
+}
