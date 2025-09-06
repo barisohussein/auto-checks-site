@@ -1,7 +1,7 @@
 const { spawn } = require("child_process");
 const path = require("path");
 
-// List all check scripts
+// List all check script
 const checks = [
   "homepageCheck.js",
   "searchCheck.js",
