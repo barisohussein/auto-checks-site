@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BrooksRunning SSL Dashboard</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+  <style>
+    th {
+      cursor: pointer;
+    }
+    th:hover {
+      background-color: #e2e8f0;
+    }
+  </style>
+</head>
+<body class="bg-gray-100 text-gray-900 p-6">
+  <h1 class="text-2xl font-bold mb-4">BrooksRunning SSL Certificates</h1>
+  <table class="min-w-full bg-white shadow-md rounded-lg overflow-hidden">
+    <thead class="bg-gray-200">
+      <tr>
+        <th class="py-2 px-4" data-key="domain">Domain</th>
+        <th class="py-2 px-4" data-key="validTo">Valid Until</th>
+        <th class="py-2 px-4" data-key="daysRemaining">Days Remaining</th>
+        <th class="py-2 px-4" data-key="status">Status</th>
+      </tr>
+    </thead>
+    <tbody id="ssl-table"></tbody>
+  </table>
+
+  <script>
+    // Load JSON data
+    async function loadSSLData() {
+      const res = await fetch('results.json');
+      const data = await res.json();
+      return data.filter(item => !item.error); // skip failed domains
+    }
+
+    // Render table
+    function renderTable(data) {
+    const tbody = document.getElementById('ssl-table');
+    tbody.innerHTML = '';
+    data.forEach(row => {
+        const validDate = new Date(row.validTo);
+        const humanDate = validDate.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric'
+        });
+        
+        const tr = document.createElement('tr');
+        tr.className = 'border-b';
+        tr.innerHTML = `
+        <td class="py-2 px-4">${row.domain}</td>
+        <td class="py-2 px-4">${humanDate}</td>
+        <td class="py-2 px-4">${row.daysRemaining}</td>
+        <td class="py-2 px-4">${row.status}</td>
+        `;
+        tbody.appendChild(tr);
+    });
+    }
+
+
+    // Sorting
+    function sortTable(data, key, ascending) {
+      return data.sort((a, b) => {
+        if (key === 'daysRemaining') {
+          return ascending ? a[key] - b[key] : b[key] - a[key];
+        } else if (key === 'validTo') {
+          return ascending ? new Date(a[key]) - new Date(b[key]) : new Date(b[key]) - new Date(a[key]);
+        } else {
+          return ascending ? a[key].localeCompare(b[key]) : b[key].localeCompare(a[key]);
+        }
+      });
+    }
+
+    // Initialize
+    (async () => {
+      let sslData = await loadSSLData();
+      let ascending = true;
+      let currentKey = 'domain';
+      renderTable(sslData);
+
+      document.querySelectorAll('th').forEach(th => {
+        th.addEventListener('click', () => {
+          const key = th.dataset.key;
+          ascending = currentKey === key ? !ascending : true;
+          currentKey = key;
+          const sorted = sortTable([...sslData], key, ascending);
+          renderTable(sorted);
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

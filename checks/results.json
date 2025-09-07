@@ -1,0 +1,508 @@
+[
+  {
+    "domain": "www.restart.brooksrunning.com",
+    "validTo": "2025-11-07T11:41:22.000Z",
+    "daysRemaining": 61,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "restart.brooksrunning.com",
+    "validTo": "2025-11-06T17:04:53.000Z",
+    "daysRemaining": 60,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "hiddenmile.brooksrunning.com",
+    "validTo": "2025-11-19T23:59:59.000Z",
+    "daysRemaining": 73,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkca.info.brooksrunning.com",
+    "validTo": "2025-11-23T10:00:15.000Z",
+    "daysRemaining": 77,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkse.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:23:29.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkno.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:23:13.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linknl.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:23:07.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linklu.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:22:55.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkit.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:22:36.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkeu.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:22:22.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkes.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:22:16.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkde.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:21:51.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkcoza.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:21:45.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkcouk.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:21:39.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkbe.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:21:31.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkat.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:21:25.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "link.info.brooksrunning.com",
+    "validTo": "2025-11-05T13:07:24.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkfr.info.brooksrunning.com",
+    "validTo": "2025-11-05T10:37:39.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkch.info.brooksrunning.com",
+    "validTo": "2025-11-05T10:09:27.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "linkie.info.brooksrunning.com",
+    "validTo": "2025-11-05T09:36:30.000Z",
+    "daysRemaining": 59,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "ca-support.brooksrunning.com",
+    "validTo": "2025-10-21T23:41:51.000Z",
+    "daysRemaining": 44,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "emea-service.brooksrunning.com",
+    "validTo": "2025-10-21T23:41:51.000Z",
+    "daysRemaining": 44,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "emea-support.brooksrunning.com",
+    "validTo": "2025-10-21T23:41:51.000Z",
+    "daysRemaining": 44,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "support.brooksrunning.com",
+    "validTo": "2025-10-21T23:41:51.000Z",
+    "daysRemaining": 44,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "returns.brooksrunning.com",
+    "validTo": "2026-04-14T23:59:59.000Z",
+    "daysRemaining": 219,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "*.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND *.brooksrunning.com"
+  },
+  {
+    "domain": "brooksrunning.com",
+    "validTo": "2026-06-27T12:07:47.000Z",
+    "daysRemaining": 293,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.com",
+    "validTo": "2026-04-28T23:59:59.000Z",
+    "daysRemaining": 233,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "stores.brooksrunning.com",
+    "validTo": "2026-05-29T23:59:59.000Z",
+    "daysRemaining": 264,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.stores.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND www.stores.brooksrunning.com"
+  },
+  {
+    "domain": "brooksservices.prod.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "inforos.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND inforos.brooksrunning.com"
+  },
+  {
+    "domain": "fasttrack.brooksrunning.com",
+    "validTo": "2026-04-21T23:59:59.000Z",
+    "daysRemaining": 226,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "m3adfs.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "devinforos.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "testinforos.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "metrics.brooksrunning.com",
+    "validTo": "2026-03-17T23:59:59.000Z",
+    "daysRemaining": 191,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "*.azure.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND *.azure.brooksrunning.com"
+  },
+  {
+    "domain": "azure.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "brooksservices.test.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "tableau-old.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND tableau-old.brooksrunning.com"
+  },
+  {
+    "domain": "sq.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND sq.brooksrunning.com"
+  },
+  {
+    "domain": "aaev.brooksrunning.com",
+    "validTo": "2026-04-28T23:59:59.000Z",
+    "daysRemaining": 233,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "aaev-dev.brooksrunning.com",
+    "validTo": "2026-04-28T23:59:59.000Z",
+    "daysRemaining": 233,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "patterns.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND patterns.brooksrunning.com"
+  },
+  {
+    "domain": "tableau.brooksrunning.com",
+    "validTo": "2025-11-04T23:59:59.000Z",
+    "daysRemaining": 58,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "tableau-test.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND tableau-test.brooksrunning.com"
+  },
+  {
+    "domain": "access.na-east.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "brooksservices.dev.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "atlasa01.hq.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND atlasa01.hq.brooksrunning.com"
+  },
+  {
+    "domain": "mbgde.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "micollabde.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "www.mbgde.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND www.mbgde.brooksrunning.com"
+  },
+  {
+    "domain": "www.micollabde.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND www.micollabde.brooksrunning.com"
+  },
+  {
+    "domain": "staging.brooksrunning.com",
+    "validTo": "2026-04-28T23:59:59.000Z",
+    "daysRemaining": 233,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "personalization.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND personalization.brooksrunning.com"
+  },
+  {
+    "domain": "atlise01.hq.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND atlise01.hq.brooksrunning.com"
+  },
+  {
+    "domain": "atlise02.hq.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND atlise02.hq.brooksrunning.com"
+  },
+  {
+    "domain": "mueise01.hq.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND mueise01.hq.brooksrunning.com"
+  },
+  {
+    "domain": "mueise02.hq.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND mueise02.hq.brooksrunning.com"
+  },
+  {
+    "domain": "devinforion.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND devinforion.brooksrunning.com"
+  },
+  {
+    "domain": "testinforion.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND testinforion.brooksrunning.com"
+  },
+  {
+    "domain": "devinforsso.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND devinforsso.brooksrunning.com"
+  },
+  {
+    "domain": "inforsso.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND inforsso.brooksrunning.com"
+  },
+  {
+    "domain": "testinforsso.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND testinforsso.brooksrunning.com"
+  },
+  {
+    "domain": "inforion.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND inforion.brooksrunning.com"
+  },
+  {
+    "domain": "newsletter.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "access.eu-central.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "mueasa01.hq.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND mueasa01.hq.brooksrunning.com"
+  },
+  {
+    "domain": "link.brooksrunning.com",
+    "validTo": "2026-08-21T23:59:59.000Z",
+    "daysRemaining": 348,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "updates.brooksrunning.com",
+    "error": "read ECONNRESET"
+  },
+  {
+    "domain": "m.brooksrunning.com",
+    "error": "getaddrinfo ENOTFOUND m.brooksrunning.com"
+  },
+  {
+    "domain": "www.brooksrunning.ca",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.ca",
+    "validTo": "2025-12-11T23:59:59.000Z",
+    "daysRemaining": 95,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "link.info.brooksrunning.ca",
+    "validTo": "2026-08-21T23:59:59.000Z",
+    "daysRemaining": 348,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.eu",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.eu",
+    "validTo": "2025-12-17T23:59:59.000Z",
+    "daysRemaining": 101,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "*.brooksrunning.eu",
+    "error": "getaddrinfo ENOTFOUND *.brooksrunning.eu"
+  },
+  {
+    "domain": "brooksrunning.fi",
+    "validTo": "2025-11-04T15:12:44.000Z",
+    "daysRemaining": 58,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.fi",
+    "error": "getaddrinfo ENOTFOUND www.brooksrunning.fi"
+  },
+  {
+    "domain": "*.brooksrunning.fi",
+    "error": "getaddrinfo ENOTFOUND *.brooksrunning.fi"
+  },
+  {
+    "domain": "www.brooksrunning.se",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.se",
+    "validTo": "2025-12-17T23:59:59.000Z",
+    "daysRemaining": 101,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.uk",
+    "validTo": "2026-05-23T17:32:03.000Z",
+    "daysRemaining": 258,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.uk",
+    "validTo": "2026-05-21T09:27:49.000Z",
+    "daysRemaining": 256,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "*.brooksrunning.uk",
+    "error": "C07ADBF101000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:911:SSL alert number 112\n"
+  },
+  {
+    "domain": "ww16.brooksrunning.uk",
+    "error": "C07ADBF101000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:911:SSL alert number 112\n"
+  },
+  {
+    "domain": "old.brooksrunning.uk",
+    "error": "C07ADBF101000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:911:SSL alert number 112\n"
+  },
+  {
+    "domain": "shop.brooksrunning.uk",
+    "error": "C07ADBF101000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:911:SSL alert number 112\n"
+  },
+  {
+    "domain": "brooksrunning.de",
+    "validTo": "2025-12-17T23:59:59.000Z",
+    "daysRemaining": 101,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.de",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.fr",
+    "validTo": "2025-12-17T23:59:59.000Z",
+    "daysRemaining": 101,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.fr",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.nl",
+    "validTo": "2025-12-17T23:59:59.000Z",
+    "daysRemaining": 101,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.nl",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.ch",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.ch",
+    "validTo": "2025-12-17T23:59:59.000Z",
+    "daysRemaining": 101,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "www.brooksrunning.it",
+    "validTo": "2025-12-03T18:11:08.000Z",
+    "daysRemaining": 87,
+    "status": "✅ Valid"
+  },
+  {
+    "domain": "brooksrunning.it",
+    "validTo": "2025-12-17T23:59:59.000Z",
+    "daysRemaining": 101,
+    "status": "✅ Valid"
+  }
+]
