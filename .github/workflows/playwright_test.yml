@@ -31,10 +31,15 @@ jobs:
         run: npx playwright install --with-deps
 
       - name: Run Playwright Golden Tests
-        run: npx playwright test tests/golden
+        run: |
+          npx playwright test tests/golden --reporter=html
+
+      - name: Check report folder
+        run: |
+          ls -la playwright-report || true
 
       - uses: actions/upload-artifact@v4
-        if: ${{ !cancelled() }}
+        if: ${{ always() }}
         with:
           name: playwright-report
           path: playwright-report/
